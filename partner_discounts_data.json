@@ -1,0 +1,14 @@
+   {
+     "partnerId": "unique-partner-id",
+     "name": "Local Cafe",
+     "logoUrl": "url-to-logo",
+     "discounts": [
+       {
+         "description": "10% off coffee",
+         "requiredPoints": 300
+       }
+     ],
+     "locations": [
+       { "lat": 40.743, "lng": -73.935 }
+     ]
+   }

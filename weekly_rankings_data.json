@@ -1,0 +1,12 @@
+   {
+     "type": "weekly",
+     "startDate": "timestamp",
+     "endDate": "timestamp",
+     "rankings": [
+       {
+         "userId": "user123",
+         "position": 1,
+         "points": 2500
+       }
+     ]
+   }

@@ -1,0 +1,12 @@
+   {
+     "userId": "unique-user-id",
+     "username": "Player123",
+     "level": 5,
+     "xp": 250,
+     "points": 620,
+     "streaks": 7,
+     "badges": ["Level10", "TopCollector"],
+     "profileImage": "url-to-image",
+     "friends": ["friendUserId1", "friendUserId2"],
+     "conqueredAreas": ["areaId1", "areaId2"]
+   }

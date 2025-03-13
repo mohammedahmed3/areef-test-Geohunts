@@ -1,0 +1,16 @@
+   {
+     "treasureId": "unique-treasure-id",
+     "name": "Golden Chest",
+     "location": {
+       "lat": 40.742,
+       "lng": -73.935
+     },
+     "rarity": "Epic",
+     "claimedBy": "userId",
+     "content": {
+       "type": "stars",
+       "amount": 5
+     },
+     "timeCreated": "timestamp",
+     "timeClaimed": "timestamp"
+   }

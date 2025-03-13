@@ -1,0 +1,14 @@
+   {
+     "challengeId": "unique-challenge-id",
+     "type": "Photo",
+     "title": "Take a photo at Statue of Liberty",
+     "rewardPoints": 500,
+     "submissions": [
+       {
+         "userId": "user123",
+         "submissionUrl": "url-to-photo",
+         "votes": 25
+       }
+     ],
+     "expiresAt": "timestamp"
+   }
